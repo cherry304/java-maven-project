@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "checking the Github actions" );
+        System.out.println( "checking the Github Actions" );
         
             
         
